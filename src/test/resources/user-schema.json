@@ -1,0 +1,16 @@
+{
+  "user": {
+    "name": "saloni",
+    "age": 22.12,
+    "skills": [
+      {
+        "backend": "nodejs",
+        "frontend": "reactjs"
+      },
+      {
+        "backend": "springboot",
+        "frontend": "reactjs"
+      }
+    ]
+  }
+}
